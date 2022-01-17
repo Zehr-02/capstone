@@ -14,5 +14,5 @@ Overview: AgroStock is a mobile application that aims to help people with color 
 Goal: to help people with color blindness and visual impairments to be able to distinguish between food ingredients that are still fresh or rotten.
 
 ![image](https://user-images.githubusercontent.com/70483516/149840905-53e27900-889d-44ec-a049-11b558120d0a.png)
-![image](https://user-images.githubusercontent.com/70483516/149840920-04bb3662-6f56-4dba-993a-652204fbd22c.png)
+![image](https://user-images.githubusercontent.com/70483516/149841028-2d44853b-1d82-4a22-902f-673a26e5dd6a.png)
 ![image](https://user-images.githubusercontent.com/70483516/149840942-2dc97901-376c-48ec-b8dd-d7be07f937ef.png)
